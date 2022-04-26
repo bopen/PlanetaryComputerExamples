@@ -4,6 +4,8 @@
 
 Welcome to the [Planetary Computer Hub](http://planetarycomputer.microsoft.com/compute), a development environment that makes our data and APIs accessible through familiar, open-source tools, and allows users to easily scale their analyses.
 
+If you're viewing this repository from GitHub, you might want to browse the rendered examples on [nbviewer](https://nbviewer.org/github/Microsoft/PlanetaryComputerExamples/tree/main/), including our [dataset examples](https://nbviewer.org/github/microsoft/PlanetaryComputerExamples/tree/main/datasets/), [quickstarts](https://nbviewer.org/github/microsoft/PlanetaryComputerExamples/tree/main/quickstarts/) and [tutorials](https://nbviewer.org/github/microsoft/PlanetaryComputerExamples/tree/main/tutorials/).
+
 ## Quickstarts
 
 These quickstarts give high-level introductions to a single topic.
@@ -58,5 +60,4 @@ These tutorials introduce a large topic and cover it in detail.
 
 * Data Catalog: https://planetarycomputer.microsoft.com/catalog
 * Documentation: https://planetarycomputer.microsoft.com/docs/overview/about
-
-
+* Discussions: https://github.com/Microsoft/PlanetaryComputer/discussions
